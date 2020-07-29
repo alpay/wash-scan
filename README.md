@@ -1,5 +1,20 @@
 This project was set up with following [CRA Recipe](https://github.com/atolye15/cra-recipe).
 
+## TODO
+
+* [x] Create app's state diagram
+* [ ] implement fetching strategy
+* [ ] implement API
+* [ ] implement upload image option
+* [ ] implement scan via camera option
+* [ ] implement tab component
+* [ ] implement navbar
+* [ ] implement help page
+* [ ] design logo
+* [ ] decide font, font size, color palette
+* [ ] dark / light theme
+* [ ] create unit tests
+
 ## Available Scripts
 
 In the project directory, you can run:
