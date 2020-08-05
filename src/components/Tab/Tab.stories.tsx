@@ -1,6 +1,6 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
 
-import Scanner from './Scanner';
+import Tab from './Tab';
 
-storiesOf('Scanner', module);
+storiesOf('Tab', module);

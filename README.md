@@ -2,21 +2,22 @@ This project was set up with following [CRA Recipe](https://github.com/atolye15/
 
 ## TODO
 
-* [x] Create app's state diagram
-* [x] implement header
-* [x] implement footer
-* [ ] implement body / layout
-* [ ] implement fetching strategy
-* [ ] implement API
-* [ ] implement upload image option
-* [ ] implement scan via camera option
-* [ ] implement tab component
-* [ ] implement navbar
-* [ ] implement help page
-* [ ] design logo
-* [ ] decide font, font size, color palette
-* [ ] dark / light theme
-* [ ] create unit tests
+- [x] Create app's state diagram
+- [x] implement header
+- [x] implement footer
+- [x] implement body / layout
+- [x] implement icon library
+- [ ] implement fetching strategy
+- [ ] implement API
+- [ ] implement upload image option
+- [ ] implement scan via camera option
+- [x] implement tab component
+- [ ] implement navbar
+- [ ] implement help page
+- [x] design logo
+- [ ] decide font, font size, color palette
+- [ ] dark / light theme
+- [ ] create unit tests
 
 ## Available Scripts
 
