@@ -3,6 +3,9 @@ This project was set up with following [CRA Recipe](https://github.com/atolye15/
 ## TODO
 
 * [x] Create app's state diagram
+* [x] implement header
+* [ ] implement footer
+* [ ] implement body / layout
 * [ ] implement fetching strategy
 * [ ] implement API
 * [ ] implement upload image option
