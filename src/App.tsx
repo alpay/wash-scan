@@ -5,10 +5,11 @@ import Routes from './routes';
 
 import './styles/index.scss';
 import './styles/reset.scss';
+import Header from './components/Header';
 
 const App: FC = () => (
   <>
-    <header>Header</header>
+    <Header />
     <Routes />
     <footer>Footer</footer>
   </>
